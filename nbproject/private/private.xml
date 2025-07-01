@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/librarymanagementsystem/LoginForm.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/AddBookForm.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/AdminDashboard.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/AdminUserHistory.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/DataBaseConnection.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/DeleteBook.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/MemberDashboard.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/MemberHistoryWindow.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ViewBooks.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/DownloadBook.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/LoginForm.java</file>
+            <file>file:/C:/Users/ALI/OneDrive/Documents/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/RequestBookForm.java</file>
+        </group>
+    </open-files>
+</project-private>
